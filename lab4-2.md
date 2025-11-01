@@ -17,4 +17,4 @@ int main(int argc, char **argv)
     return 0;
 }
 ```
-![Marcy Wu](https://share.google/Z2Zuh3gfayAkATGIc)
+![Marcy Wu](https://placehold.co/64x64/png)
