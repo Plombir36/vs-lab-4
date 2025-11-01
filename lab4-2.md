@@ -1,4 +1,4 @@
-Ссылки можно вставить так <ссылка>, например: https://google.com
+Ссылки можно вставить так <ссылка>, например: http://google.com
 
 Мой [репозиторий](https://github.com/Plombir36/vs-lsb-4). Для клонирования рапозитория нужно выполнить команду
 ```git clone```
@@ -12,8 +12,9 @@
 
 int main(int argc, char **argv)
 {
-    std::cout << "Hello, Petrov Kirill, Arkadievich!" << std::endl;
+    std::cout << "Hello, Petrov Kirill Arkadievich!" << std::endl;
 
     return 0;
 }
 ```
+![Google](https://google.com)
