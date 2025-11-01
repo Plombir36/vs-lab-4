@@ -17,4 +17,4 @@ int main(int argc, char **argv)
     return 0;
 }
 ```
-![placeholder](https://placehold.co/64x64/png)
+![Google](https://share.google/Z2Zuh3gfayAkATGlc)
